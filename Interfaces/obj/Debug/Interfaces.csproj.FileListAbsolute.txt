@@ -1,0 +1,16 @@
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\Interfaces.dll.config
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\Interfaces.dll
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\Interfaces.pdb
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\TemaDeAcasaCSNetwork.dll
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\System.Data.SQLite.dll
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\TemaDeAcasaCSNetwork.pdb
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\TemaDeAcasaCSNetwork.dll.config
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\System.Data.SQLite.xml
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\System.Data.SQLite.dll.config
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\obj\Debug\Interfaces.dll
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\obj\Debug\Interfaces.pdb
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\x86\sqlite3.dll
+D:\A-FACULTATE\Anu 2\Sem2\Medii De Proiectare Si Programare\TemaDeAcasaCSNetwork\Interfaces\bin\Debug\x64\sqlite3.dll
